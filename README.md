@@ -1,5 +1,5 @@
 # Student Research Projects - Content Size Program
-A separate application/Module under the Student Research Projects application shares the user directory.
+A separate application/Module under the Student Research Projects application shares the user directory. Student Research Projects is a program of Make Sure It Happens Inc, a Maryland non-profit and 501(c)(3) EIN 85-3536160 | www.msih.org | ithappens@msih.org | 717-674-4674
 
 ## Purpose
 A react application to measure and verify the content size of goods. The student scientists will validate the size information printed on the packaging. Does ice cream contain 12oz?
