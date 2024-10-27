@@ -5,20 +5,20 @@ A separate application/Module under the Student Research Projects application sh
 A react application to measure and verify the content size of goods. The student scientists will validate the size information printed on the packaging. Does ice cream contain 12oz?
 
 ## Technology
-Frontend: React
+- Frontend: React
+- CCS Framework: tailwind
+- Backend: MSSQL
+- Map: Google (autocomplete)
+- Email Providers: SendGrid or AWS
+- Payment Gateway: Braintree (Paypal)
+- Analytics: Facebook, Google
+- Unit Testing: xUnit
 
-CCS Framework: tailwind
-
-Backend: MSSQL
-
-Map: Google (autocomplete)
-
-Email Providers: SendGrid or AWS
-
-Payment Gateway: Braintree (Paypal)
-
-Analytics: Facebook, Google
-
+## Model
+- users
+- goods
+- requests
+- results
 
 ## Use Cases
 
